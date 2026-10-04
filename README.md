@@ -6,7 +6,7 @@ I haven't really learnt numpy in python yet... I have only explored matrices in 
 
 
 ## Attempt 1
-File name : Attempt1_RREF.py
+File name : Attempt1_RREF.py <br>
 The loops were a little less straight forward than i thought... Turns out my code handled only the happy case scenarios (thankyou AI for pointing out my stupidity). Kind of embarrassed that I couldn't spot it out myself, should have tried out more inputs... will try and improve the code myself.
 ***Issues :***
 - wont work if a row becomes zero in the middle
@@ -15,7 +15,7 @@ The loops were a little less straight forward than i thought... Turns out my cod
 
 
 ## Attempt 2
-*File name: Attempt2_RREF.py
+*File name: Attempt2_RREF.py <br>
 *Much better... I think I am almost there.. Works well if the Aii element in matrix is zero or the row is zero.
 ***Issues :***
 - wont work if columns is greater than rows
