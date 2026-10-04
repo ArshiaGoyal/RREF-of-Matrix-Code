@@ -18,4 +18,4 @@ The loops were a little less straight forward than i thought... Turns out my cod
 File name: Attempt2_RREF.py <br>
 Much better... I think I am almost there.. Works well if the Aii element in matrix is zero or the row is zero. <br>
 ***Issues :***
-- wont work if columns is greater than rows
+- wont work if columns is greater than rows (because i keep focusing on the A[i][i] element)
