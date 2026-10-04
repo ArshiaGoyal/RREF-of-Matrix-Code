@@ -6,8 +6,8 @@ I haven't really learnt numpy in python yet... I have only explored matrices in 
 
 
 ## Attempt 1
-*File name : Attempt1_RREF.py
-*The loops were a little less straight forward than i thought... Turns out my code handled only the happy case scenarios (thankyou AI for pointing out my stupidity). Kind of embarrassed that I couldn't spot it out myself, should have tried out more inputs... will try and improve the code myself.
+File name : Attempt1_RREF.py
+The loops were a little less straight forward than i thought... Turns out my code handled only the happy case scenarios (thankyou AI for pointing out my stupidity). Kind of embarrassed that I couldn't spot it out myself, should have tried out more inputs... will try and improve the code myself.
 ***Issues :***
 - wont work if a row becomes zero in the middle
 - or if Aii (<---element) is zero
